@@ -102,6 +102,9 @@ section { overflow: hidden; }
 .min-height{
     min-height:190px; 
 }
+.min-height125{
+    min-height: 125px;
+}
 .text-muted{}
 .text-primary{color: #00a885 !important;;}
 .text-finence{color:#13A0B2 !important;;}
